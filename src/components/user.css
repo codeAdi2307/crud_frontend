@@ -1,0 +1,11 @@
+.user-management {
+    padding: 20px;
+  }
+  
+  .user-management h2 {
+    margin-bottom: 20px;
+  }
+  
+  .table-actions button {
+    margin-right: 5px;
+  }
