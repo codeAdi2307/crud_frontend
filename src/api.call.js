@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // const API_URL = 'http://localhost:8000/api';
-const API_URL = 'https://crud-task-m6dq.onrender.com';
+const API_URL = 'https://crud-task-m6dq.onrender.com/api';
 
 export const signUp = async (data) => {
   try {
