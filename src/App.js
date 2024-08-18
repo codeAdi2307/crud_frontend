@@ -16,7 +16,7 @@ function App() {
       <NavBar fixed="top"/>
       <div className="main-content">
         <Routes>
-        <Route path="/" element={<Navigate to="/signin" />} />
+        <Route path="/" element={<Navigate to="/signup" />} />
           <Route path="/signin" element={<SignIn />} />
           <Route path="/signup" element={<SignUp />} />
           <Route path="/task" element={<TaskManagement />} />
